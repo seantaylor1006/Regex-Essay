@@ -26,9 +26,11 @@ The most basic components of a regular expression are two slashes '//' with a pi
 
 ### Anchors
 
-
+Anchors don't match characters but find something in strings based on their position. Carets (^) point out what is in the beginning of a string. Dollar signs ($), on the other hand, point out what is at the end of a string.
 
 ### Quantifiers
+
+Quantifiers, as the "quant" in the name implies, are all about how characters can be grouped together. The plus sign (+) is used to indicate that the character before it should occur one or more times in order to be highlighted.
 
 ### OR Operator
 
